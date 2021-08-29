@@ -5,7 +5,6 @@ title: Dust
 author: Duster Bloom
 
 ---
-
 One day I woke up but couldn't remember where I was and how I got there. It felt like, I was going under. One step at the time, slowly but steadily. An ocean of thoughts from which any escape seemed impossible had a stronghold on me.
 
 ![](/content/images/anomaly-oRskqiH7FNc-unsplash.jpg)
@@ -14,4 +13,6 @@ One day I woke up but couldn't remember where I was and how I got there. It felt
 >
 > ### more ripe
 
-### 
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="[https://www.youtube.com/embed/wrMdxo3BZAE](https://www.youtube.com/embed/wrMdxo3BZAE "Brass Against The Machine - Nobody speak")"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
