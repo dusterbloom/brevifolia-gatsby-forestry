@@ -30,6 +30,11 @@ export default function Info() {
               <a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
             </p>
           </li>
+          <li>
+            <p>
+              <a href={`https://github.com/${infoData.contact.ethereum_address}`}>Ethereum: {infoData.contact.ethereum_address}</a>
+            </p>
+          </li>
         </ul>
       </section>
     </Layout>
