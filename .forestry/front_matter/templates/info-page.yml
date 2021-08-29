@@ -29,6 +29,11 @@ fields:
   - type: text
     name: email
     label: email
+  - name: ethereum_address
+    type: text
+    config:
+      required: false
+    label: Ethereum address
   - type: text
     name: twitter_handle
     label: twitter_handle
