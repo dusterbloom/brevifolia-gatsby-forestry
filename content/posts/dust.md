@@ -13,6 +13,4 @@ One day I woke up but couldn't remember where I was and how I got there. It felt
 >
 > ### more ripe
 
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="[https://www.youtube.com/embed/wrMdxo3BZAE](https://www.youtube.com/embed/wrMdxo3BZAE "Brass Against The Machine - Nobody speak")"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{% youtube "$wrMdxo3BZAE" %}}
