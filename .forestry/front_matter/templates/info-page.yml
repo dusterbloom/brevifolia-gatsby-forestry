@@ -34,12 +34,12 @@ fields:
     config:
       required: false
     label: Ethereum address
-  - type: text
-    name: twitter_handle
-    label: twitter_handle
-  - type: text
-    name: github_handle
-    label: github_handle
+  - name: ens
+    type: text
+    config:
+      required: false
+    label: ENS
+    description: 'ens.domains '
 - name: background_color
   type: color
   label: background_color
