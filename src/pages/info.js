@@ -32,7 +32,7 @@ export default function Info() {
           </li>
           <li>
             <p>
-              <a href={`https://github.com/${infoData.contact.ethereum_address}`}>Ethereum: {infoData.contact.ethereum_address}</a>
+              <a href={`https://etherscan.io/address/${infoData.contact.ethereum_address}`}>Ethereum: {infoData.contact.ethereum_address}</a>
             </p>
           </li>
         </ul>
