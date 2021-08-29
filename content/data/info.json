@@ -3,8 +3,10 @@
   "cta": "<p>To get started, stop worrying and do start some shit up!</p>",
   "contact": {
     "email": "info@dusterbloom.eth",
+    "twitter_handle": "",
+    "github_handle": "",
     "ethereum_address": "0x755c767bac348b7c8259Eb55571Ce3946347E771",
-    "ens": "dusterbloom.eth"
+    "ens": "dusterbloom.eth "
   },
   "background_color": "#B1BCBC"
 }
