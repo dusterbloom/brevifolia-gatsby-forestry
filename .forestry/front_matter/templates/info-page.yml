@@ -29,17 +29,22 @@ fields:
   - type: text
     name: email
     label: email
+  - name: twitter
+    type: text
+    config:
+      required: false
+    label: Twitter
+    default: "@"
+  - name: github
+    type: text
+    config:
+      required: false
+    label: Github
   - name: ethereum_address
     type: text
     config:
       required: false
     label: Ethereum address
-  - name: ens
-    type: text
-    config:
-      required: false
-    label: ENS
-    description: 'ens.domains '
 - name: background_color
   type: color
   label: background_color
