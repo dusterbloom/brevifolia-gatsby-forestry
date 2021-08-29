@@ -15,6 +15,11 @@ export default function Info() {
         <ul>
           <li>
             <p>
+              <a href={`https://etherscan.io/address/${infoData.contact.ethereum_address}`}>Ethereum: {infoData.contact.ethereum_address}</a>
+            </p>
+          </li>
+          <li>
+            <p>
               <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
             </p>
           </li>
@@ -28,11 +33,6 @@ export default function Info() {
           <li>
             <p>
               <a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href={`https://etherscan.io/address/${infoData.contact.ethereum_address}`}>Ethereum: {infoData.contact.ethereum_address}</a>
             </p>
           </li>
         </ul>
