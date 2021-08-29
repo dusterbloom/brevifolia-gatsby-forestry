@@ -13,6 +13,7 @@ export default function useSiteMetadata() {
               email
               github_handle
               twitter_handle
+              ethereum_address
             }
             cta
             description
