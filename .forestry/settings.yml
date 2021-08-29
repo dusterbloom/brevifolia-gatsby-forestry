@@ -16,10 +16,10 @@ sections:
   - blog-post
 - type: document
   path: content/data/authors.yaml
-  label: About us
+  label: Authors
 - type: document
   path: content/data/info.json
-  label: Info Page
+  label: Info
 - type: heading
   label: General Config
 - type: document
