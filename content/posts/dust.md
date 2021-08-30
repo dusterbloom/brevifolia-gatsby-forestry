@@ -13,6 +13,8 @@ One day I woke up but couldn't remember where I was and how I got there. It felt
 >
 > ### more ripe
 
- 
-
 {{% youtube "$wrMdxo3BZAE" %}}
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="[https://www.youtube.com/watch?v=wrMdxo3BZAE](https://www.youtube.com/watch?v=wrMdxo3BZAE "nobody speak")" allowfullscreen></iframe>
+</div>
