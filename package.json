@@ -6,7 +6,7 @@
   "version": "0.1.0",
   "author": "kendall strautman",
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "dev": "gatsby develop -o",
     "develop": "yarn dev",
     "format": "prettier --write src/**/*.{js,jsx}",
