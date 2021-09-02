@@ -3,10 +3,10 @@ const infoData = require("./content/data/info.json")
 
 module.exports = {
   //added for IPFS routing  
-  pathPrefix: 'ipfs/QmTqFybCJRgR1BHYAMH9XArCxGSpATto4urBZvB1MUPywH',
-    plugins: [
-        'gatsby-plugin-ipfs',
-    ],
+  // pathPrefix: 'ipfs/QmTqFybCJRgR1BHYAMH9XArCxGSpATto4urBZvB1MUPywH',
+  //  plugins: [
+  //      'gatsby-plugin-ipfs',
+  //  ],
   //this makes the site config available to forestry cms
   siteMetadata: {
     title: config.title,
