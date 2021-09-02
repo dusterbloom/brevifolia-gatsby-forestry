@@ -3,7 +3,7 @@ const infoData = require("./content/data/info.json")
 
 module.exports = {
   //added for IPFS routing  
-  pathPrefix: '__GATSBY_IPFS_PATH_PREFIX__',
+  pathPrefix: 'ipfs/QmTqFybCJRgR1BHYAMH9XArCxGSpATto4urBZvB1MUPywH',
     plugins: [
         'gatsby-plugin-ipfs',
     ],
