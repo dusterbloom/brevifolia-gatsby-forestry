@@ -16,5 +16,5 @@ One day I woke up but couldn't remember where I was and how I got there. It felt
 {{% youtube $wrMdxo3BZAE %}}
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=wrMdxo3BZAE" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/?v=wrMdxo3BZAE" allowfullscreen></iframe>
 </div>
