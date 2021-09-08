@@ -13,16 +13,5 @@ One day I woke up but couldn't remember where I was and how I got there. It felt
 >
 > ### more ripe
 
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/wrMdxo3BZAE" ></iframe>
-</div>
-
-<div class="embed-responsive ">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QlBcsS9Cozc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="embed-responsive ">
-<iframe width="560" height="315" src="https://emb.d.tube/#!/elsiekjay/QmQXCBVvVn6WRCuxV3K2FoYLX6F98TvWYPorJEdEyz7VPr/true" title="dTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 <div class="embed-responsive ">
 <iframe src=https://audius.co/embed/track/dEgz0?flavor=card width="100%" height="480" allow="encrypted-media" style="border: none;"></iframe></div>
