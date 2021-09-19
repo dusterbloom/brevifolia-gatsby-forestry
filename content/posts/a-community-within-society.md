@@ -10,4 +10,6 @@ In these conditions, without renouncing any possible tool of immediate resistanc
 
 Translated by Duster Bloom
 
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" title="Eric Clapton - This Has Gotta Stop" src="https://videos.shmalls.pw/videos/embed/637607ad-7319-4d44-b328-6415c9e145a4" frameborder="0" allowfullscreen></iframe>
+
 Original Italian article [here](https://www.quodlibet.it/giorgio-agamben-una-comunit-14-ella-societa "Comunità")
